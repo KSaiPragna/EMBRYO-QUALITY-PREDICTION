@@ -18,13 +18,9 @@ The project aims to assist fertility research and IVF-related decision support s
 
 ---
 
-# ⚠️ Dataset Availability Notice
+# Dataset Availability 
 
-The original dataset used in this project is based on client/research data and cannot be uploaded publicly due to privacy and confidentiality restrictions.
-
-Therefore:
-- Only source code, ML pipeline, and dashboard files are uploaded.
-- Dataset files are intentionally excluded from GitHub.
+The project uses a publicly available PCOS/Fertility-related dataset containing hormonal, biological, and fertility parameters.
 
 Users may use similar fertility or PCOS-related datasets from Kaggle.
 
